@@ -21,7 +21,7 @@ Dr. N.G.P. Arts and Science College, Coimbatore
 
 **Diploma in Data Science**  
 Dr. N.G.P. Arts and Science College, Coimbatore 
-2025 – 2026  
+2025 – 2026 
 *Completed | 81%*
 
 ## 📚 Professional Training
