@@ -1,14 +1,12 @@
 # 👋 Hello, I'm Surya V R
 
-<h3 align="center">🚀 Aspiring IT Professional | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">🚀 Aspiring IT Professional | Python Full Stack | AI & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+Programming+Enthusiast;Artificial+Intelligence+%26+Machine+Learning;Data+Science+Learner;Full+Stack+Development+Learner;Turning+Ideas+Into+Technology" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Python+Full+Stack+Development+Learner;Artificial+Intelligence+%26+Machine+Learning;Data+Science+Enthusiast;Building+Real-World+Applications;Learning+%7C+Developing+%7C+Innovating" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <i>Learning Today. Building Tomorrow. Innovating for the Future.</i>
-</p>
+<p align="center"><i>LEARN • BUILD • INNOVATE • GROW</i></p>
 
 ---
 
@@ -16,18 +14,58 @@
 
 I'm an aspiring IT professional currently pursuing a **B.Sc. in Artificial Intelligence and Machine Learning** at **Dr. N.G.P. Arts and Science College, Coimbatore (2024–2027)**.
 
-I have completed a **Diploma in Data Science** from **Bharathiar University (2025–2026)** with 81% and am currently pursuing **Python Full Stack Development training**.
+I have completed a **Diploma in Data Science (2025–2026)** with 81% and am currently pursuing **Python Full Stack Development training**.
 
-I'm passionate about technology, programming and developing intelligent applications. My interests include Software Development, Artificial Intelligence, Machine Learning, Data Science and other emerging technologies.
+I'm passionate about programming, software development and intelligent technologies. I enjoy exploring new technologies and developing practical projects to strengthen my technical and problem-solving skills.
 
-### 💡 A Little About My Journey
+- 🎓 B.Sc. Artificial Intelligence and Machine Learning – Pursuing
+- 📊 Diploma in Data Science – Completed (81%)
+- 🐍 Python Full Stack Development – Currently Pursuing
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 💻 Passionate about Software Development and Programming
+- 🚀 Building practical technology projects
 
-- 🎓 Pursuing B.Sc. Artificial Intelligence and Machine Learning.
-- 📊 Completed Diploma in Data Science with 81%.
-- 🐍 Currently pursuing Python Full Stack Development training.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 💻 Enjoy building practical software and AI projects.
-- 🌱 Always exploring new technologies and improving my skills.
+---
+
+## 🐍 Python Full Stack Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON_FULL_STACK-DEVELOPMENT-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<h3 align="center">💻 Building My Software Development Skills</h3>
+
+**Currently Pursuing | Offline Training**
+
+I'm developing my knowledge of Python-based application development and full stack technologies through practical learning and training.
+
+### 🔥 Areas of Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,django" alt="Python Full Stack technologies"/>
+</p>
+
+**Programming & Web Technologies**
+
+- 🐍 Python Programming
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🛠️ Django Framework
+
+**Full Stack Development**
+
+- Frontend Development
+- Backend Development
+- Python-Based Web Application Development
+- Database Integration
+- Django-Based Web Development
+
+*These are learning areas covered in my ongoing training. I'm continuing to develop my practical knowledge and skills.*
+
+<blockquote>
+  🌱 My goal is to develop practical, user-friendly and efficient software applications using Python, Django and full stack development technologies.
+</blockquote>
 
 ---
 
@@ -36,30 +74,38 @@ I'm passionate about technology, programming and developing intelligent applicat
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html" alt="Python and HTML"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=python,html" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🤖 Artificial Intelligence & Data Science
+### 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=ai&logoColor=white" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-6A5ACD?style=for-the-badge" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🤖 AI, Machine Learning & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 📚 Python Libraries & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" alt="Python libraries"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ### 🔧 Development Tool
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=vscode" />
   <br/>
   <b>Visual Studio Code (VS Code)</b>
 </p>
@@ -78,21 +124,11 @@ I'm passionate about technology, programming and developing intelligent applicat
 
 ### 📊 Diploma in Data Science
 
-**Bharathiar University**
+**Dr. N.G.P. Arts and Science College**
 
 📅 2025 – 2026
 
 🏆 Completed | 81%
-
----
-
-## 📚 Professional Training
-
-### 🐍 Python Full Stack Development
-
-**Currently Pursuing | Offline Training**
-
-Developing programming and application development skills through practical learning and training.
 
 ---
 
@@ -102,19 +138,19 @@ Developing programming and application development skills through practical lear
 
 An AI-powered machine learning application designed to identify whether product reviews are fake or genuine.
 
-**Project Highlights:**
+**Key Features:**
 
-- Developed a machine learning model for fake and genuine review classification.
-- Applied NLP techniques for text preprocessing.
-- Performed text feature extraction.
-- Worked with machine learning classification algorithms.
-- Developed an interactive Streamlit application.
+- Fake and genuine product review classification.
+- NLP-based text preprocessing.
+- Text feature extraction.
+- Machine learning classification.
+- Interactive Streamlit application.
 
 **Technology Stack:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -154,9 +190,10 @@ Artificial Intelligence | Assistive Technology | Computer Vision | Voice Technol
 
 ## 🎯 Areas of Interest
 
-- Software Development
 - Python Programming
 - Python Full Stack Development
+- Django Web Development
+- Software Development
 - Artificial Intelligence
 - Machine Learning
 - Data Science
@@ -176,10 +213,10 @@ Artificial Intelligence | Assistive Technology | Computer Vision | Voice Technol
 
 <p align="center">
   <a href="https://github.com/suryavr6">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/surya-v-r-27028841b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -187,6 +224,4 @@ Artificial Intelligence | Assistive Technology | Computer Vision | Voice Technol
 
 <h3 align="center">✨ THINK • CREATE • DEVELOP • INNOVATE ✨</h3>
 
-<p align="center">
-  Thanks for visiting my GitHub profile! 🚀
-</p>
+<p align="center">Thanks for visiting my GitHub profile! 🚀</p>
